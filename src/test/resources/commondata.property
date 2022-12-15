@@ -1,0 +1,7 @@
+url=http://rmgtestingserver/domain/Bio_Book/signin.php
+username=janobe@gmail.com
+password=admin
+browser=chrome
+timeout=10
+pass=Pass
+fail=Fail
